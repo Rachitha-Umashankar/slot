@@ -117,7 +117,7 @@ Execute the program using runserver command.
 ## OUTPUT
 
 ```
-slot/timetable/timetableapp/static/Screenshot 2025-12-10 215325.png
+slot/timetable/timetableapp/static/Screenshot.png
 
 ```
 ## RESULT
