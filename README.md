@@ -117,7 +117,7 @@ Execute the program using runserver command.
 ## OUTPUT
 
 ```
-![timetable](image-2.png)
+![Image](static/Screenshot.png)
 
 ```
 ## RESULT
