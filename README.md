@@ -117,7 +117,7 @@ Execute the program using runserver command.
 ## OUTPUT
 
 ```
-slot/timetable/timetableapp/static/Screenshot.png
+![alt text](image-2.png)
 
 ```
 ## RESULT
